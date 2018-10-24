@@ -1,1 +1,3 @@
 .WeWantToIgnoreThisFile
+*.log
+log/
