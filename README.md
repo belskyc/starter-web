@@ -9,7 +9,7 @@ More blah blah in Purpose
 Deployment blah blah text
 ## How to Contribute
 More blah blah
-Even more blah blah blah - rebase ex.
+Even more blah blah blah - rebase ex.  More changes from myfeature branch too.
 ## Blah Blah
 
 This repository is for showing how Git and GitHub work
