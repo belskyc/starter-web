@@ -9,6 +9,7 @@ More blah blah in Purpose
 Deployment blah blah text
 ## How to Contribute
 More blah blah
+Even more blah blah blah - rebase ex.
 ## Blah Blah
 
 This repository is for showing how Git and GitHub work
