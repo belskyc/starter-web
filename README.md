@@ -1,8 +1,11 @@
 # Starter Web Repo
 ## Introduction
 ## Purpose
+## Deployment
 ## How to Contribute
 ## Blah Blah
+
+
 
 This repository is for showing how Git and GitHub work
 
