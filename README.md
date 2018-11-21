@@ -8,6 +8,7 @@ More blah blah in Purpose
 ## Deployment
 Deployment blah blah text
 ## How to Contribute
+More blah blah
 ## Blah Blah
 
 This repository is for showing how Git and GitHub work
