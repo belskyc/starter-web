@@ -2,6 +2,7 @@
 This is a simple website project for
 showing how to use Git and GitHub together.
 ## Introduction
+Introduction blah blah
 ## Purpose
 ## Deployment
 ## How to Contribute
