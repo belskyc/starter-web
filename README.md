@@ -4,7 +4,9 @@ showing how to use Git and GitHub together.
 ## Introduction
 Introduction blah blah
 ## Purpose
+More blah blah in Purpose
 ## Deployment
+Deployment blah blah text
 ## How to Contribute
 ## Blah Blah
 
